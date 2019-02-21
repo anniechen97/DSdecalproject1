@@ -1,7 +1,7 @@
 # DSdecalproject1
 # Data Science Skills Decal Project 1
 
-**Team Members:** [List the full names of all team members here]  
+**Team Members:** [Annie Chen, Catherine Sun, Dana Shan, Mengfan Zhang]  
 
 **Resumes and Descriptions**  
 
