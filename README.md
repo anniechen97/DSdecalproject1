@@ -15,9 +15,9 @@ This repo includes the resumes of the following people:
 * 5 sentence summary describing the person from Resume 1.
 * Jobs interested in: [List 3 jobs titles that this person is looking for. Be relevant and creative!]
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Catherine Sun]
+* I am currently a sophomore studying intended data science. I hope to learn more about machine learning and sentiment analysis in the near future because I think that it is very uniquely interesting and practical for the modern world. My favorite hobbies are drawing (specifically with pen), playing piano, and swimming. My favorite foods are popcorn and sushi. Hopefully I’ll be able to meet many people this semester in this decal and learn various new data science skills. 
+* Jobs interested in: [Data Analyst, Sentiment Analyst, Actuary]
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
